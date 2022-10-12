@@ -4,3 +4,5 @@ let pow_number = function(n1:number)
 }
 
 let b:unknown;
+
+let a:string;
